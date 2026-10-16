@@ -1,0 +1,6 @@
+{
+  "name": "GridGuard",
+  "description": "APTRANSCO EHT Transmission Line Patrolling, Fault Reporting, and Permit to Work (PTW) Field Tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
